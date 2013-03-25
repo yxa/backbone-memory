@@ -1,0 +1,22 @@
+{
+  "name": "backbone.memory",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "underscore": "latest",
+    "backbone": "latest",
+    "mocha-phantomjs": "~2.0.1",
+    "sinon": "~1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "chai": "latest"
+  },
+  "description": "gmail task abstraction",
+  "scripts": {
+    "test": "node_modules/mocha-phantomjs/bin/mocha-phantomjs index.html"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
