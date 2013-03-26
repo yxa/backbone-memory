@@ -1,7 +1,5 @@
 Backbone.sync = function(method, model, options) {
 
-
-
   // Generate four random hex digits.
   function S4() {
    return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
@@ -11,7 +9,6 @@ Backbone.sync = function(method, model, options) {
   function guid() {
     return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4());
   };
-
 
   // since we need to create a store for the models/collections
   // we are actually going to invoke the outer function which will

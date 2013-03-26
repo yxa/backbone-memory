@@ -12,11 +12,11 @@
     "mocha": "latest",
     "chai": "latest"
   },
-  "description": "gmail task abstraction",
+  "description": "backbone memory storage",
   "scripts": {
     "test": "node_modules/mocha-phantomjs/bin/mocha-phantomjs index.html"
   },
   "repository": "",
-  "author": "",
+  "author": "torbjorn.josefsson@gmail.com",
   "license": "MIT"
 }
