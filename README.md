@@ -1,4 +1,4 @@
-# Backbone Memory Store (BETA)
+# Backbone Memory Store (NOT READY!)
 
 [![Build Status](https://travis-ci.org/yxa/backbone-memory.png)](https://travis-ci.org/yxa/backbone-memory)
 
