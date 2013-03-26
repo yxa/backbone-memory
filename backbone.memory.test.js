@@ -61,7 +61,6 @@ describe("Backbone Memory Sync Adapter", function() {
         collection.create()
       });
       expect(collection).to.have.length(10);
-      console.log(collection);
     });
   });
 
