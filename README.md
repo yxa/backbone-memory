@@ -1,5 +1,9 @@
 # Backbone Memory Store (BETA)
 
+[![Build Status](https://travis-ci.org/yxa/backbone.memory.png)](https://travis-ci.org/yxa/backbone.memory)
+
+
+
 Quite simply a memory storage adapter for Backbone. It's a drop-in replacement for Backbone.Sync() to handle saving to memory.
 
 ## Usage
