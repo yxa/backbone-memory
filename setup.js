@@ -1,6 +1,7 @@
 var assert = chai.assert;
+var expect = chai.expect;
 
 mocha.setup({
-    ui: 'tdd',
+    ui: 'bdd',
     globals: [ ]
 });
