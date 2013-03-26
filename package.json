@@ -4,13 +4,14 @@
   "private": "true",
   "dependencies": {
     "underscore": "latest",
-    "backbone": "latest",
-    "mocha-phantomjs": "~2.0.1",
-    "sinon": "~1.6.0"
+    "backbone": "latest"
   },
   "devDependencies": {
     "mocha": "latest",
-    "chai": "latest"
+    "chai": "latest",
+    "mocha-phantomjs": "~2.0.1",
+    "sinon": "~1.6.0",
+    "phantomjs": "~1.9.0-0"
   },
   "description": "backbone memory storage",
   "scripts": {
