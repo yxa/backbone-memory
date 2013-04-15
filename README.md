@@ -1,6 +1,6 @@
 # Backbone Memory Store (BETA)
 
-Quite simply a memory storage adapter for Backbone. It's a drop-in replacement for Backbone.Sync() to handle saving to memory.
+Quite simply a memory storage adapter for Backbone. It's a drop-in replacement for Backbone.Sync()
 
 ## Usage
 
